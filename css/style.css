@@ -87,9 +87,6 @@ div>.ldicon{
     
 }
 
-/* -------------------------------------------------------------------------*/
-/* ============================== CARDS DE CATEGORIAS - INÍCIO ============ */
-
 .card {
   /* Add shadows to create the "card" effect */
  /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); */
@@ -119,9 +116,7 @@ div>.ldicon{
   padding: 2px 16px;
 }
 
-/* ============================== CARDS DE CATEGORIAS - FIM ============ */
 
-/* ======================================================================== */
 
 /* Estilos básicos do carousel */
 .carousel {
@@ -189,9 +184,7 @@ button:hover { background-color: rgba(0, 0, 0, 0.8); }
 
 .dot:hover { background-color: rgba(0, 0, 0, 0.7); }
 
-/* =========================================================================== */
 
-/* ==================== ÁREA DO RODAPÉ - FOOTER ========================================*/
 
 .row{
     display: flex;
@@ -299,9 +292,7 @@ ul{
 	margin: 100px auto 50px;
 }
 
-/* ============================== NOVA ÁREA DE RODAPÉ - FIM =============== */
 
-/* ============================== ÁREA DE PRODUTOS - INÍCIO =============== */
 .small-container{
 	max-width: 1800px; /* 1080px; */
 	margin: auto;
@@ -562,7 +553,6 @@ input:focus{
     background-color: #e68900;
 }
 
-/* Estilos para o alerta de boas-vindas personalizado */
 .alert {
     display: none;
     position: fixed;
